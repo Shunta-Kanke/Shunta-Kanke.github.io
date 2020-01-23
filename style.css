@@ -73,7 +73,7 @@ button,a,a.btn {
    left: 0;
 }
 .home-inner {
-   background-image: url('/home.jpg');
+   background-image: url('home.jpg');
    background-attachment: fixed;
    height: 100%;
    width: 100%;
